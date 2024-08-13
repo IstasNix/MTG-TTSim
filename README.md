@@ -1,5 +1,5 @@
 # MTG-TTSim
-Files for playtesting MTG Decks in Tabletop Simulator. Multiple formats of MTG are supported, with most card images in-game being pulled from the usual suspect, Scryfall. This repo exists for those few cards which are not, and TTS tools.
+Files for playtesting MTG Decks in Tabletop Simulator. Multiple formats of MTG are supported, with most card images in-game being pulled from the usual suspect, Scryfall. This repo exists for those few cards which are not, and TTS tools (like counters, dice, skyboxes, and tabletop inlays).
 ## deck
 _Includes decklist JSON files, sorted by format._
 ### commander
